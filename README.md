@@ -23,9 +23,9 @@ This script is provided as it is, i have no obligation of maintaining it nor to 
 Assuming you already have python 3.11 installed
 
 1. **Clone the Repository:**
-   ```bash
+```bash
    git clone https://github.com/BaLaurent/ETCMC_discord_balance
-  ```
+```
 2. **Install Dependencies:**
 ```bash
 pip install pillow easyocr requests discord_webhook pyautogui
