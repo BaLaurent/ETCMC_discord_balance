@@ -42,3 +42,6 @@ python main.py
 `fiat`: The target fiat currency for conversion (e.g., USD, EUR).
 `discordWebhook`: The Discord webhook URL for posting updates.
 `delay`: The time interval (in minutes) for balance checking and posting updates.
+
+## Supporting me
+If you find this bot feel free to send me a tip at this address: 0x22D4F43ab210B4a5bc95B9F3C92B24934db8AFe4
