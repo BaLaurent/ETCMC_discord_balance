@@ -31,6 +31,8 @@ Assuming you already have python 3.11 installed
 ```bash
 pip install pillow easyocr requests discord_webhook pyautogui
 ```
+or
+execute setup.bat
 
 ## Usage
 Run the script :
@@ -38,7 +40,11 @@ Run the script :
 python main.py
 ```
 
-##Configuration
+or
+
+execute run.bat
+
+## Configuration
 `fiat`: The target fiat currency for conversion (e.g., USD, EUR).
 `discordWebhook`: The Discord webhook URL for posting updates.
 `delay`: The time interval (in minutes) for balance checking and posting updates.
